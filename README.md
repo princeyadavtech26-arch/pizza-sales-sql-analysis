@@ -143,7 +143,7 @@ The project strengthened my understanding of:
 
 The complete project PDF contains the SQL queries and their corresponding results for all 10 analyses.
 
-👉 **[View Complete Olist SQL Project PDF](https://github.com/princeyadavtech26-arch/olist-ecommerce-sql-analysis/blob/main/olist_project%20by%20prince.pdf)**
+👉 **[View Complete Olist SQL Project PDF](https://github.com/princeyadavtech26-arch/pizza-sales-sql-analysis/blob/main/Pizza%20sales.pdf)**
 
 ## 📂 Project Structure
 
